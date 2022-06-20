@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanfrancois360&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanfrancois360&show_icons=true&theme=synthwave)
