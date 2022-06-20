@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://jeanfrancois.me
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?jeanfrancois360= &theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanfrancois360&show_icons=true&theme=radical)
