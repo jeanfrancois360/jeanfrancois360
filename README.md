@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://jeanfrancois.me
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![J.Francois's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanfrancois360)](https://github.com/jeanfrancois360/github-readme-stats)
